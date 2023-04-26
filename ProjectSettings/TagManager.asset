@@ -3,7 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - VRUIBackground
+  - VRUIText
+  - VRUIButtonIcon
+  - VRUIIcon
+  - VRUIButton
+  - VRUIAccent
+  - VRUIRadio
+  - VRUIButtonControlBar
+  - VRUIOutline
+  - VRUIButtonList
+  - VRUIButtonTab
+  - VRUICheckbox
+  - VRUIToggle
+  - VRUISlider
+  - MainModel
+  - RightHand
+  - LeftHand
+  - TaskDoer
+  - UVLight
   layers:
   - Default
   - TransparentFX
@@ -11,7 +30,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - UVModel
   - 
   - 
   - 
@@ -40,4 +59,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ViewLayer
+    uniqueID: 719749845
     locked: 0
